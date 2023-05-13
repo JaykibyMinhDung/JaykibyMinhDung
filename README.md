@@ -21,4 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JaykibyMinhDung&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JaykibyMinhDung&repo=Trailer-Movies)](https://github.com/JaykibyMinhDung/Trailer-Movies)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
