@@ -14,10 +14,6 @@ Welcome to my page, I'm Jaykiby and is going to senior fullstack dev 💻💻�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JaykibyMinhDung&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaykibyMinhDung&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=JaykibyMinhDung&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaykibyMinhDung&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaykibyMinhDung&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JaykibyMinhDung&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
