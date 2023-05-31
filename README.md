@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my page, I'm Jaykiby and is going to become senior fullstack dev 💻💻💻
+Welcome to my page, I'm Jaykiby and I am going to become senior fullstack dev 💻💻💻
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
