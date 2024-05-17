@@ -1,7 +1,7 @@
 # 💫 About Me:
 Welcome to my page, I'm Jaykiby and I am going to become senior fullstack dev 💻💻💻
 
-🔭 I’m currently working on Dong Cao Duoc Bat Phuc<br>👯 I’m looking to collaborate on Technical and Biology <br>🤝 I’m looking for help with <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ATC Group<br>👯 I’m looking to collaborate on Technical and Biology <br>🤝 I’m looking for help with mentor<br>🌱 I’m currently learning javascript and java <br>💬 Ask me about javascript <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
